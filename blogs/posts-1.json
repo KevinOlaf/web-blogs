@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "1",
+    "title": "Getting Started with Thai Government Exams",
+    "slug": "getting-started-thai-government-exams",
+    "summary": "A comprehensive guide to preparing for Thai government examinations",
+    "content": "This is the full content of the blog post about Thai government exams...",
+    "category": "exam",
+    "author": "Admin",
+    "featured": true,
+    "published": true,
+    "tags": ["exam", "government", "preparation"],
+    "read_time": 5,
+    "meta_description": "Learn how to prepare for Thai government examinations with this comprehensive guide",
+    "featured_image": "https://example.com/images/exam-guide.jpg",
+    "seo_keywords": ["thai government exam", "civil service", "preparation"],
+    "created_at": "2024-01-15T10:00:00Z",
+    "updated_at": "2024-01-15T10:00:00Z",
+    "published_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Online Learning Success Stories",
+    "slug": "online-learning-success-stories",
+    "summary": "Inspiring stories from students who achieved their goals through online learning",
+    "content": "Here are some amazing success stories from our online learning platform...",
+    "category": "success_story",
+    "author": "Editor",
+    "featured": false,
+    "published": true,
+    "tags": ["success", "learning", "online"],
+    "read_time": 3,
+    "meta_description": "Read inspiring success stories from online learners",
+    "featured_image": "https://example.com/images/success.jpg",
+    "seo_keywords": ["online learning", "success stories", "education"],
+    "created_at": "2024-01-10T14:30:00Z",
+    "updated_at": "2024-01-10T14:30:00Z",
+    "published_at": "2024-01-10T14:30:00Z"
+  }
+]
